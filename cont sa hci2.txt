@@ -1,0 +1,338 @@
+
+  <div class="section layout_padding padding_bottom-0">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6">
+                  <div class="full">
+                      <div class="heading_main text_align_left">
+                         <h2><span>Introduction</span></h2>
+                      </div>
+                      <div class="full">
+                        <p>In order to begin a simple work using computer, we should build first our system
+                            unit, and basic computer configuration setup
+                           
+                      </div>
+                      <div class="full">
+                         <a class="hvr-radial-out button-theme" href="#">See More</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-6">
+                  <div class="full">
+                      <img class="img-responsive" src="images/img7.png" alt="#" />
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="section margin-top_50 silver_bg">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6">
+                  <div class="full float-right_img">
+                      <img src="images/img6.png" alt="#" />
+                  </div>
+              </div>
+              <div class="col-md-6 layout_padding_2">
+                  <div class="full">
+                      <div class="heading_main text_align_left">
+                         <h2><span>Installing MotherBoard component</h2>
+                      </div>
+                      <div class="full">
+                        <p>When installing motherboard, ensure that you place it into the 
+                            chasis in the correct orientation. the edge with external ports goes to
+                            the rear part of the chasis as indicated in the image below
+                          </p>
+                      </div>
+                      <div class="full">
+                         <a class="hvr-radial-out button-theme" href="#">Apply</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="section layout_padding padding_bottom-0">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6">
+                  <div class="full">
+                      <div class="heading_main text_align_left">
+                         <h2><span>Installing CPU </span></h2>
+                      </div>
+                      <div class="full">
+                          <p> This Motherboard comes with a surface mount LGA1150 socket 
+                              designed for the intel 4th Gen Core i7/ core i5, pentium, celeron processors
+
+                      </div>
+                      <div class="full">
+                         <a class="hvr-radial-out button-theme" href="#">See More</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-6">
+                  <div class="full">
+                      <img class="img-responsive" src="Capture.PNG" alt="#" />
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <div class="section layout_padding padding_bottom-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="full">
+                    <div class="heading_main text_align_left">
+                       <h2><span>Safety Procedures</span></h2>
+                    </div>
+                    <div class="full">
+                      <p>
+                        1. unplug the power cord <br>
+                        2.keep the cap after installing the motherboard <br>
+                        3. upon purchase of the motherboard, ensure that the PnP cap is on the socket and the<br>
+                        socket contact are not bent <br>
+                        4.use anti-static wrist rap
+                      </p>
+                         
+                    </div>
+                    <div class="full">
+                       <a class="hvr-radial-out button-theme" href="#">See More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img class="img-responsive" src="images/img7.png" alt="#" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section margin-top_50 silver_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="full float-right_img">
+                    <img src="images/img6.png" alt="#" />
+                </div>
+            </div>
+            <div class="col-md-6 layout_padding_2">
+                <div class="full">
+                    <div class="heading_main text_align_left">
+                       <h2><span>Installing the CPU</h2>
+                    </div>
+                    <div class="full">
+                      <p>Follow the Picture Below
+                        </p>
+                    </div>
+                    <div class="full">
+                       <a class="hvr-radial-out button-theme" href="#">Apply</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section layout_padding padding_bottom-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="full">
+                    <div class="heading_main text_align_left">
+                       <h2><span>Installing CPU heatsink fan</span></h2>
+                    </div>
+                    <div class="full">
+                        <p>Apply the thermal interface material to the CPU heat sink
+                            and CPU before you install the heatsink and fan if necessary </p>
+
+                    </div>
+                    <div class="full">
+                       <a class="hvr-radial-out button-theme" href="#">See More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img class="img-responsive" src="Capture.PNG" alt="#" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="section layout_padding padding_bottom-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="full">
+                    <div class="heading_main text_align_left">
+                       <h2><span>Install Heatsink fan</span></h2>
+                    </div>
+                    <div class="full">
+                      <p>Follow the Step Below in the picture</p>
+                         
+                    </div>
+                    <div class="full">
+                       <a class="hvr-radial-out button-theme" href="#">See More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img class="img-responsive" src="images/img7.png" alt="#" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section margin-top_50 silver_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="full float-right_img">
+                    <img src="images/img6.png" alt="#" />
+                </div>
+            </div>
+            <div class="col-md-6 layout_padding_2">
+                <div class="full">
+                    <div class="heading_main text_align_left">
+                       <h2><span>Installing System Memory</h2>
+                    </div>
+                    <div class="full">
+                      <p>Unplug the power supply before adding or removing the DIMMs
+                           or ther system components. Failure to do it can cause server
+                           damage both motherboard and the components<br>
+                           1.Press the remaining clips outward to unlock a DIMM socket<br>
+                           2.Align a DIMM on the socket such that the notch on the DIMM matches the DIMM slot key 
+                           on the socket
+                        </p>
+                    </div>
+                    <div class="full">
+                       <a class="hvr-radial-out button-theme" href="#">Apply</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section layout_padding padding_bottom-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="full">
+                    <div class="heading_main text_align_left">
+                       <h2><span>Install System Memory </span></h2>
+                    </div>
+                    <div class="full">
+                        <p>3. Firmly insert the DIMM into the socket until the retaining clips snap back in a place
+                            and the DIM is propeyly seater </p>
+                    </div>
+                    <div class="full">
+                       <a class="hvr-radial-out button-theme" href="#">See More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="full">
+                    <img class="img-responsive" src="Capture.PNG" alt="#" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section layout_padding padding_bottom-0">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-6">
+              <div class="full">
+                  <div class="heading_main text_align_left">
+                     <h2><span>Removing System Memory</span></h2>
+                  </div>
+                  <div class="full">
+                    <p>
+                      1. Simultaneously press the retaining clip outward to
+                    to unlock the DIMM<br>
+                      2.Remove the DIMM from the socket carefully <br>
+                     
+                    </p>
+                       
+                  </div>
+                  <div class="full">
+                     <a class="hvr-radial-out button-theme" href="#">See More</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-6">
+              <div class="full">
+                  <img class="img-responsive" src="images/img7.png" alt="#" />
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="section margin-top_50 silver_bg">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-6">
+              <div class="full float-right_img">
+                  <img src="images/img6.png" alt="#" />
+              </div>
+          </div>
+          <div class="col-md-6 layout_padding_2">
+              <div class="full">
+                  <div class="heading_main text_align_left">
+                     <h2><span>Installing Expansion Card</h2>
+                  </div>
+                  <div class="full">
+                    <p>1. Before installing the expansion card, read the documentation
+                        that came with it and make the necessary hardware settings for the card. <br>
+                        2. Remove the System Unit Cover<br>
+                        3. Remove the bracket opposite the slot that you intent to use.
+                        keep the scew for late use.<br>
+                        4.Align the card connector with the slot press firmly unil the card iscompletely<br>
+                        5.seated on the slot<br>
+                        6.Secure the card to the chasis with the screw you removed earlier.<br>
+                        7.Replace system cover 
+                      </p>
+                  </div>
+                  <div class="full">
+                     <a class="hvr-radial-out button-theme" href="#">Apply</a>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="section layout_padding padding_bottom-0">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-6">
+              <div class="full">
+                  <div class="heading_main text_align_left">
+                     <h2><span>Installing CPU heatsink fan</span></h2>
+                  </div>
+                  <div class="full">
+                      <p>Apply the thermal interface material to the CPU heat sink
+                          and CPU before you install the heatsink and fan if necessary </p>
+
+                  </div>
+                  <div class="full">
+                     <a class="hvr-radial-out button-theme" href="#">See More</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-6">
+              <div class="full">
+                  <img class="img-responsive" src="Capture.PNG" alt="#" />
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
